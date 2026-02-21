@@ -65,7 +65,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AyushAgrawal18&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=AyushAgrawal18" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushAgrawal18&theme=tokyonight&hide_border=true" />
 </p>
