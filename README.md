@@ -19,17 +19,30 @@
 
 ---
 
-## 🏆 Codeforces
+---
+
+## 🏆 Competitive Programming
 
 <p align="center">
   <a href="https://codeforces.com/profile/Ayush_Agrawal_18">
     <img src="https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge&logo=codeforces" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/Ayush_Agrawal_18">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Ayush_Agrawal_18&theme=github_dark" />
-</p>
+<table align="center">
+<tr>
+<td align="center">
+  <img width="420" src="https://codeforces-readme-stats.vercel.app/api/card?username=Ayush_Agrawal_18&theme=github_dark" />
+</td>
+<td align="center">
+  <img width="420" src="https://leetcard.jacoblin.cool/Ayush_Agrawal_18?theme=dark&font=Baloo%202&ext=contest" />
+</td>
+</tr>
+</table>
 
 ---
 
