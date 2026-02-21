@@ -11,11 +11,11 @@
 ## 🚀 About Me
 
 - 🎯 Passionate about Competitive Programming & DSA  
-- 🏆 Regular participant in Codeforces Div 2  
+- 🏆 Regular participant in Codeforces Contests 
 - 💻 Strong in C++ & algorithm optimization  
 - 🌱 Learning scalable backend architecture & System Design  
 - ⚡ Building full-stack apps using React + Node.js  
-- 📍 From Mughalsarai, India  
+- 📍 From India  
 
 ---
 
