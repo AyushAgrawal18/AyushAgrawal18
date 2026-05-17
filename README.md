@@ -10,11 +10,13 @@
 
 ## 🚀 About Me
 
-- 🎯 Passionate about Competitive Programming & DSA  
+- 🚀 Building production-grade REST APIs with Node.js & Express
+- 🐳 Dockerized deployments on AWS EC2
+- 💳 Stripe & Razorpay payment gateway integration
+- 🏆 CF Specialist (1477) • CC 3★ (1731) • LC (1654)
+- 📫 Open to SDE Internships & Full-Time Roles
 - 🏆 Regular participant in Codeforces Contests 
-- 💻 Strong in C++ & algorithm optimization  
 - 🌱 Learning scalable backend architecture & System Design  
-- ⚡ Building full-stack apps using React + Node.js  
 - 📍 From India  
 
 ---
