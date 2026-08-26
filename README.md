@@ -13,7 +13,7 @@
 - 🚀 Building production-grade REST APIs with Node.js & Express
 - 🐳 Dockerized deployments on AWS EC2
 - 💳 Stripe & Razorpay payment gateway integration
-- 🏆 CF Specialist (1477) • CC 3★ (1731) • LC (1654)
+- 🏆 CF Specialist (1477) • CC 3★ (1732) • LC (1654)
 - 📫 Open to SDE Internships & Full-Time Roles
 - 🏆 Regular participant in Codeforces Contests 
 - 🌱 Learning scalable backend architecture & System Design  
@@ -77,15 +77,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=AyushAgrawal18" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushAgrawal18&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
