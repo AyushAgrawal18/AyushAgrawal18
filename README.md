@@ -13,7 +13,7 @@
 - 🚀 Building production-grade REST APIs with Node.js & Express
 - 🐳 Dockerized deployments on AWS EC2
 - 💳 Stripe & Razorpay payment gateway integration
-- 🏆 CF Specialist (1477) • CC 3★ (1732) • LC (1654)
+- 🏆 CF Specialist (1488) • CC 3★ (1733) • LC (1678)
 - 📫 Open to SDE Internships & Full-Time Roles
 - 🏆 Regular participant in Codeforces Contests 
 - 🌱 Learning scalable backend architecture & System Design  
